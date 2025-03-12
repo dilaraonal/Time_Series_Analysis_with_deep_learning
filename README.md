@@ -17,4 +17,4 @@ Train a stock value predictor using LSTM for this company and report the perform
 
 ### Part 2: Prediction with Transformers
 
-Repeated all steps in part 1 using transformers
+Repeat all steps in part 1 using transformers
