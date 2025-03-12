@@ -1,7 +1,7 @@
 #  Time series analysis with LSTMs and transformers
 In this study, writed a simple stock market predictor for Tesla. Dataset is in **TSLA.csv** file that uploaded. 
 
-# Part 1: Prediction with Long Short Term Memory (LSTM)
+## Part 1: Prediction with Long Short Term Memory (LSTM)
 
 Train a stock value predictor using LSTM for this company and report the performance of your predictor: 
 
@@ -15,6 +15,6 @@ Train a stock value predictor using LSTM for this company and report the perform
 
 • Added the value of gold as input for the same date intervals and retrain the model and report performance. 
 
-# Part 2: Prediction with Transformers
+## Part 2: Prediction with Transformers
 
 Repeated all steps in part 1 using transformers
